@@ -1,0 +1,15 @@
+# Node modules
+/node_modules/
+
+# Angular specific
+.angular/
+
+# IDE files
+/.vscode/
+
+# npm and yarn lock files
+package-lock.json
+yarn.lock
+
+# Angular CLI configuration
+.angular.json
